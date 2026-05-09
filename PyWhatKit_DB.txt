@@ -1,0 +1,220 @@
+Date: 9/5/2026
+Time: 16:18
+Phone Number: +919691451796
+Message: TEST ALERT 🚗Driver sleep detection system is working!Current Speed: 62 km/hrLocation: Bhopal, MPPlease check immediately.
+--------------------
+Date: 9/5/2026
+Time: 16:37
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver Head Tilt / Sleepy PostureDriver is sleepy while driving!Current Speed: 62 km/hrLocation: Bhopal, MPAlert Trigger Time: 16:36:54Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 16:42
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver Head Tilt / Sleepy PostureDriver is sleepy while driving!Current Speed: 62 km/hrLocation: Bhopal, MPAlert Trigger Time: 16:41:57Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 16:42
+Phone Number: +918839936283
+Message: ALERT!Reason: Driver Head Tilt / Sleepy PostureDriver is sleepy while driving!Current Speed: 62 km/hrLocation: Bhopal, MPAlert Trigger Time: 16:41:57Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 16:43
+Phone Number: +918770479633
+Message: ALERT!Reason: Driver Head Tilt / Sleepy PostureDriver is sleepy while driving!Current Speed: 62 km/hrLocation: Bhopal, MPAlert Trigger Time: 16:41:57Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 17:24
+Phone Number: +919691451796
+Message: ALERT!Reason: Eyes closed DetectedDriver is sleepy while driving!Location: Bhopal, MPTime: 17:24:27Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 17:39
+Phone Number: +919691451796
+Message: ALERT!Reason: Test MessageDriver is sleepy while driving!Location: Bhopal, MPTime: 17:39:00Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 17:39
+Phone Number: +918839936283
+Message: ALERT!Reason: Test MessageDriver is sleepy while driving!Location: Bhopal, MPTime: 17:39:00Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 17:40
+Phone Number: +918770479633
+Message: ALERT!Reason: Test MessageDriver is sleepy while driving!Location: Bhopal, MPTime: 17:39:00Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 17:54
+Phone Number: +919691451796
+Message: ALERT!Reason: Test MessageDriver is sleepy while driving!Location: Bhopal, MPTime: 17:54:37Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:1
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver Not Looking AheadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:01:03Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:26
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:35Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:26
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:42Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:27
+Phone Number: +918839936283
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:35Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:27
+Phone Number: +918839936283
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:42Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:27
+Phone Number: +918770479633
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:35Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:27
+Phone Number: +918770479633
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:26:42Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 18:27
+Phone Number: +919691451796
+Message: ALERT!Reason: Driver looking away from roadDriver is sleepy while driving!Location: Bhopal, MPTime: 18:27:43Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:19
+Phone Number: +919691451796
+Message: ALERT!Reason: driver is sleeping Driver is sleepy while driving!Location: Bhopal, MPTime: 19:19:40Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:20
+Phone Number: +918839936283
+Message: ALERT!Reason: driver is sleeping Driver is sleepy while driving!Location: Bhopal, MPTime: 19:19:40Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:20
+Phone Number: +918770479633
+Message: ALERT!Reason: driver is sleeping Driver is sleepy while driving!Location: Bhopal, MPTime: 19:19:40Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:29
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:29
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:30
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:35
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:36
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 19:36
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MPTime: https://www.google.com/maps?q=23.2547,77.4029Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:31
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:30:34Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:31
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:30:34Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:32
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:30:34Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:34
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:33:43Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:35
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:33:43Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:41
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:41:13Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:42
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:41:13Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:43
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:41:13Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:48
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:48:01Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:49
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!📍 Live Location:https://www.google.com/maps?q=23.2547,77.4029🕒 Time: 22:48:01Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:56
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:56:12Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:57
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:56:12Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 22:58
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:56:12Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 23:0
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:59:45Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 23:0
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 22:59:45Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 23:43
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 23:43:09Please check immediately.
+--------------------
+Date: 9/5/2026
+Time: 23:44
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 23:43:09Please check immediately.
+--------------------

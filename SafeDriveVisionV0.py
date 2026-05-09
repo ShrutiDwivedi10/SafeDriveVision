@@ -6,6 +6,7 @@ import math
 import time
 import pygame 
 from scipy.spatial import distance as dist
+from alert_system import send_whatsapp_alert
 from scipy.spatial import Delaunay
 import threading
 import csv
@@ -44,7 +45,13 @@ def sound_thread(sound_key):
     thread.daemon = True
     thread.start()
 
-
+def whatsapp_thread(alert_reason):
+    thread = threading.Thread(
+        target=send_whatsapp_alert,
+        args=(alert_reason,)
+    )
+    thread.daemon = True
+    thread.start()
 
 
 
@@ -56,6 +63,7 @@ predictor = dlib.shape_predictor('./shape_predictor_81_face_landmarks (1).dat')
 
 print("[INFO] initializing camera...")
 cap = cv2.VideoCapture(0)
+# cap = cv2.VideoCapture("http://192.0.0.4:8080/video")
 
 desired_fps = 30
 cap.set(cv2.CAP_PROP_FPS, desired_fps)
@@ -173,6 +181,8 @@ last_phone_alert = 0
 last_lookaway_alert = 0
 last_eye_alert = 0
 last_yawn_alert = 0
+last_sms_time = 0
+SMS_COOLDOWN = 120   # 120 sec = 2 min
 # Démarrer le son de bienvenue
 sound_thread('welcome')
 sound_thread('welcome_eng')
@@ -201,6 +211,8 @@ ear = 0
 mar = 0
 head_angle = 0
 nar = 0
+program_start_time = time.time()
+STARTUP_DELAY = 10   # seconds
 theme = "dark"
 while True:
     ret, img = cap.read()
@@ -307,10 +319,10 @@ while True:
             if head_angle < 82 or head_angle > 100:
                 cv2.putText(img,  "Look ahead!", (x, y - 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
                 COUNTER3 += 1
-            #     if COUNTER3 >= 6:  
-            #         sound_thread("regarder")          
-            #         cv2.putText(img,  "Look ahead!", (x, y - 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
-            #         COUNTER3 = 0
+                # if COUNTER3 >= 6:  
+                #     sound_thread("regarder")          
+                #     cv2.putText(img,  "Look ahead!", (x, y - 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+                #     COUNTER3 = 0
                  
             # if head_angle < 75 or head_angle > 110:
             #     cv2.putText(img, "Look ahead!", (x, y - 30),
@@ -321,6 +333,7 @@ while True:
                     sound_thread("regarder")
                     if time.time() - last_lookaway_alert > 3:
                         lookaway_count += 1
+                        whatsapp_thread("driver is sleeping ")
                         focus_score = max(0, focus_score - 8)
                         last_lookaway_alert = time.time()
                     COUNTER3 = 0
@@ -379,7 +392,14 @@ while True:
     if focus_score < 50:
         status = "HIGH RISK"
         color = (0, 0, 255)
+        # if time.time() - last_sms_time > SMS_COOLDOWN:
+        #     print("HIGH RISK detected! Sending WhatsApp Alert...")
 
+        #     whatsapp_thread(
+                
+        #         f"Driver may be sleepy or distracted while driving."
+        #     )
+        #     last_sms_time = time.time()
     # Draw dashboard panel
     # cv2.rectangle(img, (5, 135), (430, 300), (40, 40, 40), -1)
 
