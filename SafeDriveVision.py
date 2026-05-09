@@ -21,7 +21,7 @@ from utils.functions import cv_draw_landmark
 
 
 #yolov5_path = 'C:\\Users\\o\\Downloads\\3DDFA_V2-master\\3DDFA_V2-master\\yolov5-master\\yolov5-master'
-sys.path.append(yolov5_path)
+#sys.path.append(yolov5_path)
 # Importer les modules YOLOv5
 '''
 from modell.yolo import Detect, Model
