@@ -11,6 +11,8 @@ import threading
 import csv
 import sqlite3
 from datetime import datetime
+import os
+
 
 BLUE = (255, 0, 0)
 GREEN = (0, 255, 0)
@@ -147,10 +149,18 @@ def calculate_head_angle(eye_left, eye_right, nose_tip):
     angle_rad = np.arccos(np.clip(np.dot(vector_nose_normalized, vector_horizontal_normalized), -1.0, 1.0))
     angle_deg = np.degrees(angle_rad)
     return angle_deg
-# Charger le modèle 
-weights_path = './weights/yolov5m.pt' # Mettez à jour avec le chemin exact du fichier de poids
-model = torch.hub.load('ultralytics/yolov5', 'custom', path=weights_path, force_reload=True)
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+# Load YOLO locally from torch cache (offline)
+weights_path = "./weights/yolov5m.pt"
+
+model = torch.hub.load(
+    "ultralytics/yolov5",
+    "custom",
+    path=weights_path,
+    source="github",
+    force_reload=False
+)
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 
@@ -202,6 +212,15 @@ mar = 0
 head_angle = 0
 nar = 0
 theme = "dark"
+
+def save_event(frame, event_type):
+    os.makedirs("captures", exist_ok=True)
+
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    filename = f"captures/{event_type}_{timestamp}.jpg"
+
+    cv2.imwrite(filename, frame)
+    print(f"Captured: {filename}")
 while True:
     ret, img = cap.read()
     if not ret:
@@ -231,6 +250,7 @@ while True:
 
                 if time.time() - last_phone_alert > 5:
                     phone_count += 1
+                    save_event(img, "phone")
                     focus_score = max(0, focus_score - 15)
                     last_phone_alert = time.time()
     for face in faces:
@@ -321,6 +341,7 @@ while True:
                     sound_thread("regarder")
                     if time.time() - last_lookaway_alert > 3:
                         lookaway_count += 1
+                        save_event(img, "lookaway")
                         focus_score = max(0, focus_score - 8)
                         last_lookaway_alert = time.time()
                     COUNTER3 = 0
@@ -336,6 +357,7 @@ while True:
                             sound_thread("eye")
                             if time.time() - last_eye_alert > 4:
                                 eye_close_count += 1
+                                save_event(img, "eyesclosed")
                                 focus_score = max(0, focus_score - 10)
                                 last_eye_alert = time.time()
                             repeat_counter += 1
@@ -359,6 +381,7 @@ while True:
 
                 if time.time() - last_yawn_alert > 5:
                     yawn_count += 1
+                    save_event(img, "yawn")
                     focus_score = max(0, focus_score - 5)
                     last_yawn_alert = time.time()
 
