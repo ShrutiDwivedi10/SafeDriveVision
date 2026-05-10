@@ -147,4 +147,4 @@ Please check immediately.
 
     print("All WhatsApp Alerts Sent Successfully!")
 
-send_whatsapp_alert("Testing Alert System")
+# send_whatsapp_alert("Testing Alert System")

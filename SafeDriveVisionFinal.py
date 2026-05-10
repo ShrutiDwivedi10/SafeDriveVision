@@ -323,9 +323,11 @@ class SafeDriveVision(QWidget):
         self.last_eye_alert = 0
         self.last_yawn_alert = 0
         self.last_focus_log = time.time()
+        self.last_whatsapp_alert_time = 0
 
         # models
         self.cap = cv2.VideoCapture(0)
+        # self.cap = cv2.VideoCapture("http://192.168.29.224:8080/video")
         self.detector = dlib.get_frontal_face_detector()
 
         self.predictor = dlib.shape_predictor(
@@ -649,6 +651,17 @@ class SafeDriveVision(QWidget):
                 self.status_text = "WARNING"
             else:
                 self.status_text = "HIGH RISK"
+                
+            if self.status_text == "WARNING" and int(self.focus_score) <= 59:
+                if time.time() - self.last_whatsapp_alert_time > 100:
+                    self.last_whatsapp_alert_time = time.time()
+                    def alert_task():
+                        try:
+                            from alert_system import send_whatsapp_alert
+                            send_whatsapp_alert("Driver focus score dropped below 60 (WARNING)")
+                        except Exception as e:
+                            print(f"Error sending WhatsApp alert: {e}")
+                    threading.Thread(target=alert_task, daemon=True).start()
 
         # ---------- AI OVERLAY ----------
         if len(faces) > 0:
