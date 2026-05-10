@@ -218,3 +218,188 @@ Time: 23:44
 Phone Number: +918839936283
 Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 23:43:09Please check immediately.
 --------------------
+Date: 10/5/2026
+Time: 10:6
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:05:46Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:43
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:43:35Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:44
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:43:35Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:45
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:44:59Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:45
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:43:35Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:45
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:45:08Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 10:45
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 10:45:12Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:36
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:03Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:36
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:23Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:36
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:28Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:36
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:38Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:37
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:03Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:37
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:36:56Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:48
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted and not looking ahead.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:48:21Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:49
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted and not looking ahead.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:48:21Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 11:50
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted and not looking ahead.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 11:48:21Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 12:28
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 12:28:03Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 12:29
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 12:28:03Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 12:29
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted / looking awayDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 12:29:07Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 12:29
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 12:28:03Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 12:30
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted / looking awayDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 12:29:07Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 15:29
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 15:28:40Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 15:29
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: HIGH RISK: Driver focus score dropped critically low!Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 15:28:53Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 15:29
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Driver eyes closed multiple times. Possible drowsiness detected.Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 15:28:40Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 15:30
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: HIGH RISK: Driver focus score dropped critically low!Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 15:28:53Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 15:30
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Driver is distracted / looking awayDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 15:29:45Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 17:27
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 17:27:10Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 17:28
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 17:27:10Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:40
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:39:47Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:40
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:39:47Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:41
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:39:47Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:46
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:45:49Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:46
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:45:49Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:46
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: Testing Alert SystemDriver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:45:49Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:49
+Phone Number: +919691451796
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:49:33Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:50
+Phone Number: +918839936283
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:49:33Please check immediately.
+--------------------
+Date: 10/5/2026
+Time: 21:50
+Phone Number: +918770479633
+Message: 🚨 ALERT! 🚨Reason: driver is sleeping Driver is sleepy while driving!Speed: 20 km/hAccident Probability: 20%Risk Level: Normal DrivingAcceleration Data:X Axis: 0Y Axis: 0Z Axis: 0Location: Bhopal, MP https://www.google.com/maps?q=23.2547,77.4029Time: 21:49:33Please check immediately.
+--------------------

@@ -120,31 +120,31 @@ Please check immediately.
         pywhatkit.sendwhatmsg_instantly(
             phone_number,
             message,
-            wait_time=20,
+            wait_time=10,
             tab_close=False,
             close_time =5
         )
 
-        time.sleep(10)
+        time.sleep(3)
 
         pyautogui.click()
-        time.sleep(2)
+        time.sleep(1)
 
 
         pyautogui.press("enter")
         
-        time.sleep(2)
+        time.sleep(1)
 
 
         pyautogui.click(x=1335, y=955)
 
-        time.sleep(2)
+        time.sleep(1)
 
         print(f"Message sent to {phone_number}")
 
-        time.sleep(8)
+        time.sleep(2)
 
 
     print("All WhatsApp Alerts Sent Successfully!")
 
-send_whatsapp_alert("Testing Alert System")
+# send_whatsapp_alert("Testing Alert System")

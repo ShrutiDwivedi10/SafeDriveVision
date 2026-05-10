@@ -192,8 +192,9 @@ last_lookaway_alert = 0
 last_eye_alert = 0
 last_yawn_alert = 0
 last_sms_time = 0
+last_lookaway_sms_time = 0
 SMS_COOLDOWN = 120   # 120 sec = 2 min
-# Démarrer le son de bienvenue
+ 
 sound_thread('welcome')
 sound_thread('welcome_eng')
 cv2.namedWindow("Video Stream", cv2.WINDOW_NORMAL)
@@ -270,7 +271,7 @@ while True:
             landmarks_points = np.array([(p.x, p.y) for p in landmarks.parts()])
 
             x, y, w, h = face.left(), face.top(), face.width(), face.height()
-            # cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
+            cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
 
             image_points = np.array([
                         (landmarks_points[30][0], landmarks_points[30][1]),
@@ -313,7 +314,8 @@ while True:
             right_eyeHull = cv2.convexHull(right_eye)
             # cv2.drawContours(img, [left_eyeHull], -1, (255, 255, 255), 1)
             # cv2.drawContours(img, [right_eyeHull], -1, (255, 255, 255), 1)
-            ear = eye_aspect_ratio(left_eye) + eye_aspect_ratio(right_eye) / 2.0
+            # ear = eye_aspect_ratio(left_eye) + eye_aspect_ratio(right_eye) / 2.0
+            ear = (eye_aspect_ratio(left_eye) + eye_aspect_ratio(right_eye)) / 2.0
             mouth = landmarks_points[48:68]
             mounthHull = cv2.convexHull(mouth)
             # cv2.drawContours(img, [mounthHull], -1, (0, 255, 0), 1)
@@ -353,10 +355,14 @@ while True:
                     sound_thread("regarder")
                     if time.time() - last_lookaway_alert > 3:
                         lookaway_count += 1
-                        whatsapp_thread("driver is sleeping ")
                         save_event(img, "lookaway")
                         focus_score = max(0, focus_score - 8)
                         last_lookaway_alert = time.time()
+
+                    if time.time() - last_lookaway_sms_time > SMS_COOLDOWN:
+                        whatsapp_thread("driver is sleeping ")
+                        last_lookaway_sms_time = time.time()
+
                     COUNTER3 = 0
             else:
                 COUNTER3 = 0
